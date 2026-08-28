@@ -8,39 +8,39 @@ A Laravel-based Cinema Management System with a public movie catalog, admin dash
 
 ### 🏠 Public Home / Movies
 
-![Public Movies](screenshots/publicMovies1.png)
+![Public Movies](Screenshots/publicMovies1.png)
 
-![Public Movies](screenshots/publicMovies2.png)
+![Public Movies](Screenshots/publicMovies2.png)
 
 ### 🎬 Public Movie Details
 
-![Public Movie Details](screenshots/showPublicMovie.png)
+![Public Movie Details](Screenshots/showPublicMovie.png)
 
 ### 📱 Mobile View
 
-![Mobile Home](screenshots/HomeMobileView.png)
+![Mobile Home](Screenshots/HomeMobileView.png)
 
 ### 🔐 Admin Authentication
 
-![Admin Login](screenshots/login.png)
+![Admin Login](Screenshots/login.png)
 
-![Admin Signup](screenshots/signup.png)
+![Admin Signup](Screenshots/signup.png)
 
 ### 📊 Admin Dashboard
 
-![Admin Dashboard](screenshots/dashboard1.png)
+![Admin Dashboard](Screenshots/dashboard1.png)
 
-![Admin Dashboard](screenshots/dashboard2.png)
+![Admin Dashboard](Screenshots/dashboard2.png)
 
 ### 🎥 Movie Management
 
-![Admin Movies](screenshots/adminMovies.png)
+![Admin Movies](Screenshots/adminMovies.png)
 
-![Add Movie](screenshots/add.png)
+![Add Movie](Screenshots/add.png)
 
-![Edit Movie](screenshots/edit.png)
+![Edit Movie](Screenshots/edit.png)
 
-![Admin Movie Details](screenshots/showAdminMovie.png)
+![Admin Movie Details](Screenshots/showAdminMovie.png)
 
 
 ## ✨ Features
@@ -148,6 +148,7 @@ In another terminal:
 ```bash
 npm run dev
 
+```
 
 ## 🌐 API Endpoints
 
